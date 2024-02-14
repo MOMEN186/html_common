@@ -1,4 +1,4 @@
-<select class="form-select" id="languages" >
+<select class="form-select" id="languages" name="lr">
     <option value="">languages</option>
     <option value="af">Afrikaans</option>
     <option value="sq">Albanian</option>
